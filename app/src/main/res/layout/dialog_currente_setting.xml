@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+
+        android:background="@drawable/image_background"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginStart="5dp"
+           >
+
+            <EditText
+                android:id="@+id/currently_name_text_setting_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="@integer/material_motion_duration_long_1"
+                android:padding="8dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:hint="Valyutani kiriting"
+                android:layout_marginEnd="5dp"
+                android:layout_marginStart="8dp"
+                android:background="@drawable/radius"
+                android:textSize="18dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                />
+
+            <ImageView
+                android:id="@+id/image_currently_setting_dialog"
+                android:layout_width="39dp"
+                android:layout_height="39dp"
+                android:layout_marginEnd="6dp"
+                android:layout_marginStart="5dp"
+                android:layout_gravity="center"
+                android:background="@drawable/radius"
+                android:padding="8dp"
+                android:src="@drawable/money"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="2dp"
+            android:layout_margin="5dp"
+            >
+            <EditText
+                android:id="@+id/currently_percentage_text_setting_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/material_motion_duration_long_1"
+                android:padding="8dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:inputType="number"
+                android:hint="Valyutani qiymati"
+                android:textColor="@color/black"
+                android:textSize="18dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="5dp"
+                android:background="@drawable/radius"/>
+
+            <ImageView
+                android:id="@+id/image_percentage_setting_dialog"
+                android:layout_width="39dp"
+                android:layout_height="39dp"
+                android:src="@drawable/ic_percent"
+                android:padding="8dp"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="6dp"
+                android:background="@drawable/radius"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_margin="15dp">
+            <Button
+                android:id="@+id/exit_currently_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="@integer/material_motion_duration_long_1"
+                android:layout_marginStart="20dp"
+                android:background="@drawable/radius"
+                android:layout_marginEnd="30dp"
+                android:text="exit"/>
+            <Button
+                android:id="@+id/ok_currently_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:background="@drawable/radius"
+                android:layout_marginEnd="20dp"
+                android:layout_weight="@integer/material_motion_duration_long_1"
+                android:text="ok"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

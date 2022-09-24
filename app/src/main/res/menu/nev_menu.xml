@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/branch_fragment_item"
+        android:title="Filliallar"
+        android:icon="@drawable/branch"/>
+    <item
+        android:id="@+id/warehouse_fragment_item"
+        android:title="Omborlar"
+        android:icon="@drawable/warehouse"
+        android:iconTint="@color/teal_700"/>
+    <item
+        android:id="@+id/provides_fragment_item"
+        android:title="Ta'minot"
+        android:icon="@drawable/provide"/>
+    <item
+        android:id="@+id/providers_fragment_item"
+        android:title="Ta'minotchilar"
+        android:icon="@drawable/provider"/>
+    <item
+        android:id="@+id/setting_fragment_item"
+        android:title="Sozlamalar"
+        android:icon="@drawable/setting"
+        android:iconTint="@color/teal_700"/>
+</menu>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Adidas</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="providerTabLayoutActive">Faol</string>
+    <string name="provideTabLayoutCompleted">Yakunlangan</string>
+    <string name="warehouseGetAccepted">Qabul qilingan</string>
+    <string name="warehouseGetIsExpected">Kutilayotgan</string>
+    <string name="warehouse">Ombor \n mahsulot</string>
+    <string name="warehouseget">Filialga \n yuborish</string>
+    <string name="warehousepost">Filialga \n yuborilgan</string>
+    <string-array name="role">
+        <item>Fillial admin</item>
+        <item>Sotuvchi</item>
+    </string-array>
+</resources>

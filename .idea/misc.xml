@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2005" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/anim.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic__settings.xml" value="0.127" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_add_home_work.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_arrow_back.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_baseline_playlist_add_circle_24.xml" value="0.218" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_category_add_.xml" value="0.218" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_edit_.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_folder_open.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_home_work.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2005" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_location.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_menu.xml" value="0.2005" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_money.xml" value="0.2385" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_people.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_percent.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_person.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_person_add.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_phone.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_update.xml" value="0.2385" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ic_work.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/image_background.xml" value="0.2005" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/message_backgraund.xml" value="0.2595" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/radius.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ramka.xml" value="0.219" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/drawable/ramka_radius.xml" value="0.149" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout-land/fragment_home.xml" value="0.18697916666666667" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/branch_item.xml" value="0.25" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/branch_update_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/currenty_setting_item.xml" value="0.2" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/dialog_branches_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/dialog_category_setting.xml" value="0.2985781990521327" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/dialog_currente_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/dialog_provider_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/dropdown_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/employee_dialog_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/employee_item.xml" value="0.33" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/employees.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_branch.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_currency.xml" value="0.5" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_dialog_branches_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_employees.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_provider.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_provider_money_pay.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_pvovide.xml" value="0.24010416666666667" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_ware_house_innovation.xml" value="0.33" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_warehouse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_warehouse_get.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_warehouse_get_accepted.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_warehouse_get_is_expected.xml" value="0.24010416666666667" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_warehouse_post.xml" value="0.24010416666666667" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/fragment_warehouse_warehouse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/nav_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/provider_item.xml" value="0.41885325558794945" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/provider_money_item.xml" value="0.5870206489675516" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/setting_category_item.xml" value="0.264" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/layout/warehouse_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Ishlar/Adidas/app/src/main/res/menu/nev_menu.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

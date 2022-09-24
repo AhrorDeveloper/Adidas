@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_providerFragment"
+            app:destination="@id/providerFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_warehouseFragment"
+            app:destination="@id/warehouseFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_pvovideFragment"
+            app:destination="@id/pvovideFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_employeesFragment"
+            app:destination="@id/employeesFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/providerFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.ProviderFragment"
+        android:label="fragment_provider"
+        tools:layout="@layout/fragment_provider" >
+        <action
+            android:id="@+id/action_providerFragment_to_providerMoneyPayFragment"
+            app:destination="@id/providerMoneyPayFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/pvovideFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.PvovideFragment"
+        android:label="fragment_pvovide"
+        tools:layout="@layout/fragment_pvovide" />
+    <fragment
+        android:id="@+id/warehouseFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.WarehouseFragment"
+        android:label="fragment_warehouse"
+        tools:layout="@layout/fragment_warehouse" >
+        <action
+            android:id="@+id/action_warehouseFragment_to_wareHouseInnovationFragment"
+            app:destination="@id/wareHouseInnovationFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" >
+        <action
+            android:id="@+id/action_settingsFragment_to_categoryFragment"
+            app:destination="@id/categoryFragment" />
+        <action
+            android:id="@+id/action_settingsFragment_to_currencyFragment"
+            app:destination="@id/currencyFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/employeesFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.EmployeesFragment"
+        android:label="fragment_employees"
+        tools:layout="@layout/fragment_employees" />
+    <fragment
+        android:id="@+id/providerMoneyPayFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.ProviderMoneyPayFragment"
+        android:label="fragment_provider_money_pay"
+        tools:layout="@layout/fragment_provider_money_pay" />
+    <fragment
+        android:id="@+id/categoryFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.CategoryFragment"
+        android:label="fragment_category"
+        tools:layout="@layout/fragment_category" />
+    <fragment
+        android:id="@+id/currencyFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.CurrencyFragment"
+        android:label="fragment_currency"
+        tools:layout="@layout/fragment_currency" />
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_splashFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/wareHouseInnovationFragment"
+        android:name="com.axrorabdurayimjonov.adidas.fragment.WareHouseInnovationFragment"
+        android:label="fragment_ware_house_innovation"
+        tools:layout="@layout/fragment_ware_house_innovation" />
+</navigation>
